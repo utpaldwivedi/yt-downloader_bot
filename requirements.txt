@@ -1,0 +1,3 @@
+pytubefix
+pyTelegramBotAPI
+python-dotenv
