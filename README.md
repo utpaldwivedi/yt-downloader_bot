@@ -1,6 +1,8 @@
 # Youtube Video Downloader Bot
 
-It is designed to get direct download links of Youtube videos with resolution 720p or less. This is a helpful tool when user has a limited connection to internet.
+It is designed to get direct download links of Youtube videos with resolution 720p or less. This is a helpful tool when user has a limited connection to internet.</br></br>
+`pyTelegramBotAPI` - used to connect to the bot and send and receive data.</br>
+`pytubefix` - used to get download links for Youtube videos</br>
 
 Bot link - `https://t.me/yt_downloader_utpal_bot`
 
